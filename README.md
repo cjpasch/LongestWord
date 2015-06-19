@@ -1,4 +1,4 @@
-'''
+```
 def LongestWord(sen)
   
   words = sen.split(" ")
@@ -25,5 +25,5 @@ def LongestWord(sen)
   return longest_word
 
 end
-'''
+```
 
